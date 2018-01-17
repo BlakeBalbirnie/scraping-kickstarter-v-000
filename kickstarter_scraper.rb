@@ -16,3 +16,4 @@ kickstarter.css("li.project.grid_4").each do |project|
 end
 
 projects
+end
